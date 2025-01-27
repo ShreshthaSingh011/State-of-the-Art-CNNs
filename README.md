@@ -2,6 +2,11 @@
 
 This repository complements the paper *State of the Art Convolutional Neural Networks (CNNs)*, which provides a comprehensive overview of the theoretical foundations, recent advancements, and innovative applications of CNNs in various fields.
 
+## Author Info
+
+You can find more of my work and publications on [Google Scholar](https://scholar.google.com/citations?user=gHijsXAAAAAJ&hl=en).
+
+
 ## Overview
 
 Convolutional Neural Networks (CNNs) have become the cornerstone of deep learning in computer vision tasks such as image classification, object detection, and semantic segmentation. This paper discusses the evolution of CNNs, key components like convolutional layers, pooling layers, and activation functions, as well as hybrid models that combine CNNs with other advanced techniques to address specific challenges. The paper also explores the exciting fields where CNNs are making significant strides and addresses future challenges and directions.
