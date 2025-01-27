@@ -4,8 +4,7 @@ This repository complements the paper *State of the Art Convolutional Neural Net
 
 ## Author Info
 
-You can find more of my work and publications on [Google Scholar](https://scholar.google.com/citations?user=gHijsXAAAAAJ&hl=en).
-
+You can find more of my work and publications on <a href="https://scholar.google.com/citations?user=gHijsXAAAAAJ&hl=en" target="_blank">Google Scholar</a>.
 
 ## Overview
 
